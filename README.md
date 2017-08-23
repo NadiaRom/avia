@@ -1,7 +1,7 @@
 # avia
-Code for visualisation of flight treaties and given rights for Ukrainian airlines
+Code and data for visualisation of flight treaties and given rights for Ukrainian airlines
 
-# data
+## data
 Edited .tsv files of
 - international flight treaties, conditions for Ukrainian airlines only
 - registry of given permissins to fly at particular route
@@ -9,9 +9,9 @@ Edited .tsv files of
 
 + Nested json of beforementioned data for every country
 
-# Data preparation, Python
+## Data preparation, Python
 - Dictionaries to unify route destinations
 - Notebooks for data processing
 
-# JS component
+## JS component
 - d3
